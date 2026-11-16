@@ -1,0 +1,16 @@
+[
+  {
+    "source_file": "orders.json",
+    "record_number": 4,
+    "raw_order_id": 1004,
+    "error_type": "ValueError",
+    "reason": "Invalid amount: bad"
+  },
+  {
+    "source_file": "orders.json",
+    "record_number": 7,
+    "raw_order_id": 1007,
+    "error_type": "ValueError",
+    "reason": "Amount: NaN must be finite and non-negative"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": 7,
+    "customer_name": "Anna Kowalska",
+    "country": "PL",
+    "status": "paid",
+    "amount": "120.50",
+    "is_gift": false,
+    "tags": [
+      "promo",
+      "sql"
+    ]
+  },
+  {
+    "order_id": 1002,
+    "customer_id": 8,
+    "customer_name": "Jan Nowak",
+    "country": "DE",
+    "status": "pending",
+    "amount": "80.00",
+    "is_gift": false,
+    "tags": []
+  },
+  {
+    "order_id": 1003,
+    "customer_id": 9,
+    "customer_name": "Ola Lis",
+    "country": "UNKNOWN",
+    "status": "paid",
+    "amount": "0",
+    "is_gift": true,
+    "tags": []
+  },
+  {
+    "order_id": 1005,
+    "customer_id": 7,
+    "customer_name": "Anna Kowalska",
+    "country": "PL",
+    "status": "cancelled",
+    "amount": "20.00",
+    "is_gift": false,
+    "tags": []
+  },
+  {
+    "order_id": 1006,
+    "customer_id": 8,
+    "customer_name": "Jan Nowak",
+    "country": "DE",
+    "status": "paid",
+    "amount": "50.25",
+    "is_gift": false,
+    "tags": [
+      "retry",
+      "sql"
+    ]
+  }
+]
